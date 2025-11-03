@@ -157,8 +157,8 @@ Student_Record_Management_System/
 │
 ├── src/
 │   ├── app.py       # Main application file
-│   ├── gui.py       # Faculty panel logic
-│   ├── model.py     # Student panel logic
+│   ├── gui.py       # GUI logic
+│   ├── model.py     # Operational logic
 │   └── db_conn.py   # To connect from database
 
 ├── docs/
