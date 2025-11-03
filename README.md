@@ -150,8 +150,7 @@ Grades are automatically computed based on marks using both **Python logic** and
 ```
 
 Student_Record_Management_System/
-│
-├── app.py                  
+│            
 ├── db/
 │   ├── schema.sql  # SQL script for creating database
 │   ├── seed_data.sql  # SQL script for inserting initial data
